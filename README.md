@@ -7,7 +7,7 @@
 avery / subspace<br>
 <img src="https://file.garden/afszSz23iVucvb6X/avery%20the%20mayor/IMG_2502.png" style="width:200px;">
 <br>slime / he<br>+ they / it |•| tmasc pan <br>
-  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Avery,+what's+in+your+inventory?)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A41D1D&center=true&width=435&lines=Avery%2C+what's+in+your+inventory%3F)](https://git.io/typing-svg)
 </div>
 <img src="https://file.garden/afszSz23iVucvb6X/avery%20the%20mayor/IMG_2500.png" style="width:350px;"><br>
 <img src="https://file.garden/afszSz23iVucvb6X/avery%20the%20mayor/IMG_2507.gif" style="width:100px;"> <img src="https://file.garden/afszSz23iVucvb6X/avery%20the%20mayor/IMG_2515.gif" style="width:100px;">
