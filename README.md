@@ -1,16 +1,17 @@
-## Hi there 👋
+<div align="center">
+<img src="https://file.garden/afszSz23iVucvb6X/avery%20the%20mayor/IMG_2498.png"><br>
+<img src="https://file.garden/afszSz23iVucvb6X/avery%20the%20mayor/IMG_2505.png">
+<br>
 
-<!--
-**slime-block/slime-block** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div style="color: #97CD45; font-size: 15px;">
+avery / subspace<br>
+<img src="https://file.garden/afszSz23iVucvb6X/avery%20the%20mayor/IMG_2502.png" style="width:200px;">
+<br>slime / he<br>+ they / it |•| tmasc pan <br>
+</div>
+<img src="https://file.garden/afszSz23iVucvb6X/avery%20the%20mayor/IMG_2500.png" style="width:350px;"><br>
+<img src="https://file.garden/afszSz23iVucvb6X/avery%20the%20mayor/IMG_2507.gif" style="width:100px;"> <img src="https://file.garden/afszSz23iVucvb6X/avery%20the%20mayor/IMG_2515.gif" style="width:100px;">
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+<img src="https://file.garden/afszSz23iVucvb6X/avery%20the%20mayor/IMG_2506.png"><br>
+<img src="https://file.garden/afszSz23iVucvb6X/avery%20the%20mayor/IMG_2498.png">
+</div>
